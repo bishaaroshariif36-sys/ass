@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(255, 167, 252);
+
+}
+p{
+    font-family: serif;
+    font-display: block;
+    
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+
+}
+main{
+    font-size: medium;
+}
+nav{
+    text-align: right;
+}
+a{
+    text-decoration: none;
+}
+    
+    
+
+ol{
+    font-size: medium;
+    font-family: inherit;
+}
+ul{
+   font-size: medium;
+}
